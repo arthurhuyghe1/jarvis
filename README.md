@@ -1,7 +1,7 @@
 
 ---
 
-## 🤖 Assistant IA (LLM)
+## Assistant IA (LLM)
 
 - Le **LLM tourne directement sur mon PC**
 - Il est entraîné / configuré pour :
@@ -9,11 +9,9 @@
   - Les transformer en **instructions structurées**
   - Générer les paramètres nécessaires à la construction des trames réseau
 
-➡️ Cela permet une **maîtrise totale des données** et une personnalisation avancée du comportement de l’assistant.
-
 ---
 
-## 📡 Contrôle réseau & Scapy
+## Contrôle réseau & Scapy
 
 La communication avec les périphériques se fait via :
 - **Python**
@@ -30,7 +28,7 @@ Exemple d’usage :
 
 ---
 
-## 💡 Domotique locale
+## Domotique locale
 
 - Ajout prévu de **lumières connectées en WiFi**
 - Réseau local isolé via un **routeur Tenda**
@@ -43,7 +41,7 @@ Avantages :
 
 ---
 
-## 🔐 Confidentialité & Sécurité
+## Confidentialité & Sécurité
 
 ✔ Données traitées uniquement en local  
 ✔ Pas de cloud  
@@ -55,7 +53,7 @@ Ce projet répond à une problématique clé :
 
 ---
 
-## 🚀 État d’avancement
+## État d’avancement
 
 - [x] Concept et architecture globale
 - [ ] Étude des trames réseau avec Scapy
@@ -66,7 +64,7 @@ Ce projet répond à une problématique clé :
 
 ---
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 - **Python**
 - **Scapy**
