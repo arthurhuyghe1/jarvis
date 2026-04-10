@@ -89,4 +89,4 @@ Si vous avez des questions ou souhaitez échanger autour du projet :
 
 ---
 
-✨ *Projet en constante évolution*
+*Projet en constante évolution*
